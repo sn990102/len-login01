@@ -1,0 +1,98 @@
+body {
+    background-size: 100%;
+}
+
+header{
+    /* border: 1px solid; */
+    width: 15%;
+    height: 20%;
+    color: white;
+    margin: 3% auto;
+}
+header img{
+    width: 100%;
+    /* margin-left: 1%; */
+    /* margin-top: 1%; */
+}
+header p{
+    /* margin: 1% auto; */
+    text-align: center;
+    margin-top: 1%;
+}
+main{
+    /* border: 1px solid; */
+    width: 30%;
+    height: 270px;
+    background: white;
+    color: #ccc;
+    margin: 0% auto;
+}
+main .login{
+    width: 20%;
+    font-size: 18px;
+    padding-top: 7%;
+    margin: 10% auto; 
+    text-align: center;
+    color: rgb(85, 84, 84);
+}
+main .user {
+    border-bottom: 1px solid #ccc;
+width: 100%;
+}
+main .baokuo {
+    width: 75%;
+    height: 80px;
+    margin: 0% auto;
+}
+main img{
+    width: 5%;
+}
+main .pass {
+    border-bottom: 1px solid #ccc;
+width: 100%;
+}
+main input{
+    border: none;
+line-height: 40px;
+}
+main .baokuo02 {
+    width: 80%;
+height: 50px;
+margin: 10% auto;
+color: #fff;
+font-size: 12px;
+}
+main button{
+    border: none;
+width: 100%;
+height: 35px;
+background: #48B6D3;
+color: #fff;
+border-radius: 2%;
+margin: 0% auto;
+}
+main .baokuo02 .bai01 {
+    color: #ccc;
+    float: left;
+    }
+    main .baokuo02 .bai02 {
+    color: #ccc;
+    float: right;
+    }
+    main .baokuo02 .lan {
+    color: rgb(23, 180, 241);
+    float: right;
+    }
+    footer{
+        width: 100%;
+        height: 40px;
+        font-size: 10px;
+        margin-top: 4%;
+        background: rgba(9, 21, 90, 0.363);
+        text-align: center;
+        padding: 2%;
+        color: rgba(255, 255, 255, 0.678);
+        }
+        footer span:hover{
+        color: #fff;
+        }
